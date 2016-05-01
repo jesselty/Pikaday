@@ -11,7 +11,7 @@
     "./css/pikaday.css"
   ],
   "dependencies": {
-    "jQuery": "^2.2.3"
+    "jquery": "^2.2.3"
   },
   "ignore": [
     "**/.*",
